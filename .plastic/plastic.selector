@@ -1,0 +1,4 @@
+repository "GameForPractic@Grushaas@cloud"
+  path "/"
+    br "/main"
+    co "/main"
